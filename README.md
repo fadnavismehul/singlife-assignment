@@ -1,2 +1,2 @@
-# singlife-assignment
-Assignment for Singlife
+# sl-assignment
+Assignment repo
